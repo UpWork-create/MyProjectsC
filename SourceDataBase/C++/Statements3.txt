@@ -1,0 +1,3 @@
+!Sorting Algorithms :Selection Sort,Bubble Sort,Recursive Bubble Sort,Insertion Sort,Recursive Insertion Sort,Merge Sort,Iterative Merge Sort,Quick Sort.
+!Quicksort is a widely used sorting algorithm which selects a specific element called pivot and partitions the array or list to be sorted into two parts based on this pivot s that the elements lesser than the pivot are to the left of the list and the elements greater than the pivot are to the right of the list.
+

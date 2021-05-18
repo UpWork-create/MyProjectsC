@@ -1,0 +1,2 @@
+D:\ProjectC\Laba7\DataBaseNextTry\Debug\DataBaseNextTry.exe
+D:\ProjectC\Laba7\DataBaseNextTry\Debug\DataBaseNextTry.pdb
